@@ -1,2 +1,2 @@
 # arduino
-Small project Arduino files.
+Small Arduino projects files.

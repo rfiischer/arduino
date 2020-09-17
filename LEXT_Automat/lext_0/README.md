@@ -1,0 +1,1 @@
+Prototype of external lighting scheduling using a Bluetooth module and a relay.

@@ -1,0 +1,1 @@
+Periodically turns the LED on and off with linear fading, which looks logarithmic to our eyes.

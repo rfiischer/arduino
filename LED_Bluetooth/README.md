@@ -1,0 +1,1 @@
+Lights up an LED from received commands from Bluetooth module. The signals can be sent by a smartphone.
